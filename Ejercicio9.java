@@ -26,14 +26,14 @@ public class Ejercicio9 {
         System.out.println("Ingles                       Español");
         System.out.println(palabra1 + "                        " + palabra11);
         System.out.println(palabra2 + "                        " + palabra12);
-        System.out.println(palabra3 + "                        " + palabra13);
-        System.out.println(palabra4 + "                        " + palabra14);
+        System.out.println(palabra3 + "                         " + palabra13);
+        System.out.println(palabra4 + "                    " + palabra14);
         System.out.println(palabra5 + "                        " + palabra15);
-        System.out.println(palabra6 + "                        " + palabra16);
-        System.out.println(palabra7 + "                        " + palabra17);
-        System.out.println(palabra8 + "                        " + palabra18);
-        System.out.println(palabra9 + "                        " + palabra19);
-        System.out.println(palabra10 + "                       " + palabra20);
+        System.out.println(palabra6 + "                       " + palabra16);
+        System.out.println(palabra7 + "                  " + palabra17);
+        System.out.println(palabra8 + "                         " + palabra18);
+        System.out.println(palabra9 + "                      " + palabra19);
+        System.out.println(palabra10 + "                    " + palabra20);
 
     }
 }
